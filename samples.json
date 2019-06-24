@@ -18,7 +18,7 @@
     "description": "A small sample of yellow and green taxi trip records in New York City.",
     "size": 97986,
     "visible": true,
-    "dataUrl": "https://raw.githubusercontent.com/willibill/bus/data/data.json",
+    "dataUrl": "https://raw.githubusercontent.com/willibill/bus/master/data/data.json",
     "configUrl": "https://raw.githubusercontent.com/uber-web/kepler.gl-data/master/nyctrips/config.json"
   },
   {
