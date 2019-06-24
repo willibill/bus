@@ -19,7 +19,7 @@
     "size": 97986,
     "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/willibill/bus/master/data/data.csv",
-    "configUrl": "https://raw.githubusercontent.com/uber-web/kepler.gl-data/master/nyctrips/config.json"
+    "configUrl": "https://raw.githubusercontent.com/willibill/bus/master/data/config.json"
   },
   {
     "id": "sfcontour",
