@@ -32,19 +32,12 @@
             "water":true
          }
       },
-      "queryStatus":{
-         "pastQueries":[]
-      },
       "visState":{
          "filters":[],
          "interactionConfig":{
             "brush":{
                "enabled":false,
                "size":0.5
-            },
-            "tooltip":{
-               "enabled":false
-               }
             }
          },
          "layerBlending":"additive",
