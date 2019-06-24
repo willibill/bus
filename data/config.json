@@ -34,7 +34,7 @@
       },
       "visState":{
       "filters":[
-            {
+         {
                "dataId":"nyctrips",
                "enlarged":false,
                "id":"09vn5a0of",
@@ -55,7 +55,58 @@
             }
          },
          "layerBlending":"additive",
-         "layers":[],
+         "layers":[
+         		{
+               "config":{
+                  "color":[
+                     36,
+                     115,
+                     189
+                  ],
+                  "columns":{
+                     "altitude":null,
+                     "lat":"y",
+                     "lng":"x"
+                  },
+                  "dataId":"nyctrips",
+                  "isVisible":true,
+                  "label":"pickup",
+                  "visConfig":{
+                     "colorRange":{
+                        "category":"Uber",
+                        "colors":[
+                           "#5A1846",
+                           "#900C3F",
+                           "#C70039",
+                           "#E3611C",
+                           "#F1920E",
+                           "#FFC300"
+                        ],
+                        "name":"Global Warming",
+                        "type":"sequential"
+                     },
+                     "fixedRadius":false,
+                     "hi-precision":false,
+                     "opacity":0.8,
+                     "outline":false,
+                     "radius":1,
+                     "radiusRange":[
+                        0,
+                        50
+                     ],
+                     "thickness":2
+                  }
+               },
+               "id":"4bonnee",
+               "type":"point",
+               "visualChannels":{
+                  "colorField":null,
+                  "colorScale":"quantile",
+                  "sizeField":null,
+                  "sizeScale":"linear"
+               }
+            }
+         ],
          "splitMaps":[
 
          ]
