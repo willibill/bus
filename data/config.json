@@ -4,8 +4,8 @@
          "bearing":-15.25,
          "dragRotate":true,
          "isSplit":false,
-         "latitude":40.739516322561585,
-         "longitude":-73.97755351753737,
+         "latitude":48.859668,
+         "longitude":2.342356,
          "pitch":56.012527487172655,
          "zoom":12.092072468526053
       },
@@ -70,7 +70,7 @@
                   },
                   "dataId":"nyctrips",
                   "isVisible":true,
-                  "label":"pickup",
+                  "label":"delai_arrivee",
                   "visConfig":{
                      "colorRange":{
                         "category":"Uber",
