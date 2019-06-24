@@ -33,7 +33,21 @@
          }
       },
       "visState":{
-         "filters":[],
+      "filters":[
+            {
+               "dataId":"nyctrips",
+               "enlarged":false,
+               "id":"09vn5a0of",
+               "name":"tpep_pickup_datetime",
+               "plotType":"histogram",
+               "type":"timeRange",
+               "value":[
+                   1421300098000,
+                   1421352890000
+               ],
+               "yAxis":null
+            }
+         ],
          "interactionConfig":{
             "brush":{
                "enabled":false,
