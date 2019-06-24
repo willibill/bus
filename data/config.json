@@ -89,7 +89,7 @@
                      "hi-precision":false,
                      "opacity":0.8,
                      "outline":false,
-                     "radius":1,
+                     "radius":7,
                      "radiusRange":[
                         0,
                         50
