@@ -38,7 +38,7 @@
                "dataId":"nyctrips",
                "enlarged":false,
                "id":"09vn5a0of",
-               "name":"tpep_pickup_datetime",
+               "name":"timestamp",
                "plotType":"histogram",
                "type":"timeRange",
                "value":[
