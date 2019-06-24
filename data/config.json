@@ -42,8 +42,8 @@
                "plotType":"histogram",
                "type":"timeRange",
                "value":[
-                   1421300098000,
-                   1421352890000
+                   0,
+                   60000000000
                ],
                "yAxis":null
             }
@@ -70,7 +70,7 @@
                   },
                   "dataId":"nyctrips",
                   "isVisible":true,
-                  "label":"delai_arrivee",
+                  "label":"deplacement",
                   "visConfig":{
                      "colorRange":{
                         "category":"Uber",
