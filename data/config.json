@@ -58,7 +58,7 @@
                     "label3"
                   ]
                 },
-                "enabled": true
+                "enabled": false
             },
             "brush":{
                "enabled":false,
