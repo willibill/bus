@@ -49,6 +49,9 @@
             }
          ],
          "interactionConfig":{
+            "tooltip":{
+               "enabled":false
+            },
             "brush":{
                "enabled":false,
                "size":0.5
