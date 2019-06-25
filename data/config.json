@@ -48,24 +48,6 @@
                "yAxis":null
             }
          ],
-         "interactionConfig":{
-            "tooltip":{
-               "enabled":false,
-               "fieldsToShow":{
-                  "4bonnee":[
-                     "timestamp",
-                     "label1",
-                     "lable2",
-                     "label3",
-                     "x"
-                  ]
-               }
-            },
-            "brush":{
-               "enabled":false,
-               "size":0.5
-            }
-         },
          "layerBlending":"additive",
          "layers":[
          		{
@@ -119,6 +101,24 @@
                }
             }
          ],
+         "interactionConfig":{
+            "tooltip":{
+               "enabled":false,
+               "fieldsToShow":{
+                  "nyctrips":[
+                     "timestamp",
+                     "label1",
+                     "lable2",
+                     "label3",
+                     "x"
+                  ]
+               }
+            },
+            "brush":{
+               "enabled":false,
+               "size":0.5
+            }
+         },
          "splitMaps":[
 
          ]
