@@ -32,6 +32,17 @@
             "water":true
          }
       },
+      "queryStatus":{
+         "pastQueries":[
+            {
+               "id":"o1bohfz7",
+               "label":"data.csv",
+               "queryOption":"csv",
+               "queryType":"file",
+               "size":12087115
+            }
+         ]
+      },
       "visState":{
       "filters":[
          {
