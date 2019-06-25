@@ -26,7 +26,7 @@
          "visibleLayerGroups":{
             "border":false,
             "building":true,
-            "label":false,
+            "label":true,
             "land":true,
             "road":true,
             "water":true
