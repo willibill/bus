@@ -50,6 +50,59 @@
          ],
          "layerBlending":"additive",
          "layers":[
+                 {
+                   "id": "jhivvbj",
+                   "type": "arc",
+                   "config": {
+                     "dataId": "nyctrips",
+                     "label": "deplacement",
+                     "color": [
+                       228,
+                       155,
+                       0
+                     ],
+                     "columns": {
+                       "lat0": "y",
+                       "lng0": "x",
+                       "lat1": "y1",
+                       "lng1": "x1"
+                     },
+                     "isVisible": true,
+                     "visConfig": {
+                       "opacity": 0.3,
+                       "thickness": 0.3,
+                       "colorRange": {
+                         "name": "Global Warming",
+                         "type": "sequential",
+                         "category": "Uber",
+                         "colors": [
+                           "#5A1846",
+                           "#900C3F",
+                           "#C70039",
+                           "#E3611C",
+                           "#F1920E",
+                           "#FFC300"
+                         ]
+                       },
+                       "sizeRange": [
+                         0,
+                         10
+                       ],
+                       "targetColor": [
+                         149,
+                         12,
+                         105
+                       ],
+                       "hi-precision": false
+                     }
+                   },
+                   "visualChannels": {
+                     "colorField": null,
+                     "colorScale": "quantile",
+                     "sizeField": null,
+                     "sizeScale": "linear"
+                   }
+               },
          		{
                "config":{
                   "color":[
