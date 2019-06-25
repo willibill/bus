@@ -49,6 +49,17 @@
             }
          ],
          "interactionConfig":{
+            "tooltip": {
+                "fieldsToShow": {
+                  "earthquakes": [
+                    "timestamp",
+                    "Label1",
+                    "Label2",
+                    "Label3"
+                  ]
+                },
+                "enabled": true
+            },
             "brush":{
                "enabled":false,
                "size":0.5
