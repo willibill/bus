@@ -103,14 +103,13 @@
          ],
          "interactionConfig":{
             "tooltip":{
-               "enabled":false,
+               "enabled":true,
                "fieldsToShow":{
                   "nyctrips":[
                      "timestamp",
                      "label1",
                      "label2",
-                     "label3",
-                     "x"
+                     "label3"
                   ]
                }
             },
