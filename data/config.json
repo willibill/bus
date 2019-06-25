@@ -52,8 +52,12 @@
             "tooltip":{
                "enabled":false,
                "fieldsToShow":{
-                  "nyctrips":[
-                     "timestamp"
+                  "4bonnee":[
+                     "timestamp",
+                     "label1",
+                     "lable2",
+                     "label3",
+                     "x"
                   ]
                }
             },
