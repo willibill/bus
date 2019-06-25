@@ -32,17 +32,6 @@
             "water":true
          }
       },
-      "queryStatus":{
-         "pastQueries":[
-            {
-               "id":"o1bohfz7",
-               "label":"data.csv",
-               "queryOption":"csv",
-               "queryType":"file",
-               "size":12087115
-            }
-         ]
-      },
       "visState":{
       "filters":[
          {
@@ -62,7 +51,7 @@
          "interactionConfig":{
             "tooltip": {
                 "fieldsToShow": {
-                  "o1bohfz7": [
+                  "4bonnee": [
                     "timestamp",
                     "label1",
                     "label2",
