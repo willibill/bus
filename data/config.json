@@ -51,7 +51,7 @@
          "interactionConfig":{
             "tooltip": {
                 "fieldsToShow": {
-                  "earthquakes": [
+                  "nyctrips": [
                     "timestamp",
                     "Label1",
                     "Label2",
@@ -79,7 +79,8 @@
                      "lat":"y",
                      "lng":"x"
                   },
-                  "dataId":"nyctrips",
+                  "
+                  ":"nyctrips",
                   "isVisible":true,
                   "label":"deplacement",
                   "visConfig":{
