@@ -50,7 +50,12 @@
          ],
          "interactionConfig":{
             "tooltip":{
-               "enabled":false
+               "enabled":false,
+               "fieldsToShow":{
+                  "nyctrips":[
+                     "timestamp"
+                  ]
+               }
             },
             "brush":{
                "enabled":false,
