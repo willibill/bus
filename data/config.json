@@ -69,7 +69,7 @@
                      },
                      "isVisible": true,
                      "visConfig": {
-                       "opacity": 0.3,
+                       "opacity": 6,
                        "thickness": 6,
                        "colorRange": {
                          "name": "Global Warming",
