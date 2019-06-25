@@ -52,7 +52,7 @@
             "brush":{
                "enabled":false,
                "size":0.5
-            },
+            }
          },
          "layerBlending":"additive",
          "layers":[
@@ -68,8 +68,7 @@
                      "lat":"y",
                      "lng":"x"
                   },
-                  "
-                  ":"nyctrips",
+                  "dataId":"nyctrips",
                   "isVisible":true,
                   "label":"deplacement",
                   "visConfig":{
