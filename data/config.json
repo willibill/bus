@@ -112,10 +112,6 @@
                   ]
                },
                "enabled":true
-            },
-            "brush":{
-               "enabled":false,
-               "size":0.5
             }
          },
          "splitMaps":[
