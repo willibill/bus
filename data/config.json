@@ -133,7 +133,6 @@
                   "label":"points",
                   "visConfig":{
                      "colorRange":{
-                        "category":"Uber",
                         "colors":[
                            "#5A1846",
                            "#900C3F",
@@ -142,7 +141,6 @@
                            "#F1920E",
                            "#FFC300"
                         ],
-                        "name":"Global Warming",
                         "type":"sequential"
                      },
                      "fixedRadius":false,
