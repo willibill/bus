@@ -54,7 +54,7 @@
                "type": "range",
                "value": [
                  3000,
-                 3002
+                 3113
                ],
                "enlarged": false,
                "plotType": "histogram",
