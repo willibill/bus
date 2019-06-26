@@ -35,7 +35,7 @@
       "visState":{
       "filters":[
          {
-               "dataId":"nyctrips",
+               "dataId":"bus",
                "enlarged":true,
                "id":"09vn5a0of",
                "name":"timestamp",
@@ -54,7 +54,7 @@
                    "id": "jhivvbj",
                    "type": "arc",
                    "config": {
-                     "dataId": "nyctrips",
+                     "dataId": "bus",
                      "label": "deplacement",
                      "color": [
                        228,
@@ -115,7 +115,7 @@
                      "lat":"y",
                      "lng":"x"
                   },
-                  "dataId":"nyctrips",
+                  "dataId":"bus",
                   "isVisible":true,
                   "label":"points",
                   "visConfig":{
@@ -157,7 +157,7 @@
          "interactionConfig":{
             "tooltip":{
                "fieldsToShow":{
-                  "nyctrips":[
+                  "bus":[
                      "timestamp",
                      "label1",
                      "label2",
