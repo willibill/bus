@@ -159,6 +159,7 @@
                "fieldsToShow":{
                   "bus":[
                      "timestamp",
+                     "bus_id",
                      "label1",
                      "label2",
                      "label3"
