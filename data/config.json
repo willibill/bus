@@ -152,15 +152,15 @@
                         0,
                         50
                      ],
-                     "thickness":2
-                  },
-                  "textLabel": {
-                     "field": "prochain_arret",
-                     "color": [255,255,255],
-                     "size" : 18,
-                     "xOffset": 0,
-                     "yOffset": 0,
-                     "anchor": "middle"
+                     "thickness":2,
+                     "textLabel": {
+                       "field": "prochain_arret",
+                       "color": [255,255,255],
+                       "size" : 18,
+                       "xOffset": 0,
+                       "yOffset": 0,
+                       "anchor": "middle"
+                     }
                   }
                },
                "id":"4bonnee",
