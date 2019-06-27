@@ -173,8 +173,8 @@
                      "timestamp",
                      "bus_id",
                      "code_iti",
-                     "Arret suivant",
                      "Arret precedent",
+                     "Arret suivant",
                      "Délai réel",
                      "Prédiction RATP",
                      "Prédiction IA"
