@@ -171,6 +171,7 @@
                   "bus":[
                      "timestamp",
                      "bus_id",
+                     "code_iti"
                   ]
                },
                "enabled":true
