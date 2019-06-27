@@ -175,7 +175,7 @@
                      "Arret precedent",
                      "Arret suivant",
                      "Délai réel",
-                     "Prédiction RATP"
+                     "Prédiction IA"
                   ]
                },
                "enabled":true
