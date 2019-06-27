@@ -145,10 +145,7 @@
                         "textLabel": {
                            "field": "prochain_arret",
                            "color": [255,255,255],
-                           "size" : 18,
-                           "xOffset": 0,
-                           "yOffset": 0,
-                           "anchor": "middle"
+                           "size" : 18
                         }
                      },
                      "fixedRadius":false,
