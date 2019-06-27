@@ -172,7 +172,7 @@
                      "timestamp",
                      "bus_id",
                      "code_iti",
-                     "Délai Réel",
+                     "Délai réel",
                      "Prédiction RATP",
                      "Prédiction IA"
                   ]
