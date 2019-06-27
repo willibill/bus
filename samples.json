@@ -18,6 +18,10 @@
     "description": "A small sample of yellow and green taxi trip records in New York City.",
     "size": 97986,
     "visible": true,
-    "dataUrl": "https://raw.githubusercontent.com/willibill/bus/master/arret/data.csv"
+    "dataUrl": {
+      ARRET: "https://raw.githubusercontent.com/willibill/bus/master/arret/data.csv",
+      TRIP: "https://raw.githubusercontent.com/willibill/bus/master/data/config.json"
+    }
+    "configUrl": "https://raw.githubusercontent.com/willibill/bus/master/arret/config.json"
   }
 ]
