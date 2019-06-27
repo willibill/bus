@@ -170,10 +170,7 @@
                "fieldsToShow":{
                   "bus":[
                      "timestamp",
-                     "bus_id",
-                     "code_iti",
-                     "Arret precedent",
-                     "Arret suivant"
+                     "bus_id"
                   ]
                },
                "enabled":true
