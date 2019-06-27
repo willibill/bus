@@ -52,6 +52,7 @@
                "enlarged":true,
                "name":"bus_id",
                "id":"09vn5a0of",
+               "type": "select",
                "value":[
                   "B30001"
                ]
