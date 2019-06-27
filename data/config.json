@@ -171,9 +171,12 @@
                   "bus":[
                      "timestamp",
                      "bus_id",
-                     "label1",
-                     "label2",
-                     "label3"
+                     "code_iti",
+                     "Arret precedent",
+                     "Arret suivant",
+                     "Delai réel",
+                     "Prédiction RATP",
+                     "Prédiction IA"
                   ]
                },
                "enabled":true
