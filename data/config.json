@@ -48,6 +48,8 @@
                "yAxis":null
             },
          {
+               "dataId":"bus",
+               "id":"09vn5a0of",
                "name": "bus_id",
                "type": "select",
                "fieldIdx": "bus_id",
