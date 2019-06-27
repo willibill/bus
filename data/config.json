@@ -143,7 +143,12 @@
                         ],
                         "type":"sequential",
                         "textLabel": {
-                          "field": "prochain_arret"
+                           "field": "prochain_arret",
+                           "color": [255,255,255],
+                           "size" : 18,
+                           "xOffset": 0,
+                           "yOffset": 0,
+                           "anchor": "middle"
                         }
                      },
                      "fixedRadius":false,
