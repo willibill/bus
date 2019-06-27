@@ -171,7 +171,6 @@
                   "bus":[
                      "timestamp",
                      "bus_id",
-                     "Arret suivant"
                   ]
                },
                "enabled":true
