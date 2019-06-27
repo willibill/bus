@@ -174,9 +174,7 @@
                      "code_iti",
                      "Arret precedent",
                      "Arret suivant",
-                     "Délai réel",
-                     "Prédiction RATP",
-                     "Prédiction IA"
+                     "Délai réel"
                   ]
                },
                "enabled":true
