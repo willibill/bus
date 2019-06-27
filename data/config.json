@@ -53,9 +53,7 @@
                "name":"bus_id",
                "id":"09vn5a0of",
                "type": "select",
-               "value":[
-                  B3001
-               ]
+               "value": B3001
             }
          ],
          "layerBlending":"additive",
