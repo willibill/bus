@@ -141,12 +141,7 @@
                            "#F1920E",
                            "#FFC300"
                         ],
-                        "type":"sequential",
-                        "textLabel": {
-                           "field": "prochain_arret",
-                           "color": [255,255,255],
-                           "size" : 18
-                        }
+                        "type":"sequential"
                      },
                      "fixedRadius":false,
                      "hi-precision":false,
@@ -158,7 +153,12 @@
                         50
                      ],
                      "thickness":2,
-                  }
+                  },
+                  "textLabel": {
+                    "field": "prochain_arret",
+                    "color": [255,255,255],
+                    "size" : 18
+                 }
                },
                "id":"4bonnee",
                "type":"point",
