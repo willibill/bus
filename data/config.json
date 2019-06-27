@@ -167,7 +167,6 @@
                      "bus_id",
                      "code_iti",
                      "Arret suivant",
-                     "Arret precedent",
                      "Délai réel",
                      "Prédiction RATP",
                      "Prédiction IA"
