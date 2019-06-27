@@ -19,6 +19,5 @@
     "size": 97986,
     "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/willibill/bus/master/arret/data.csv",
-    "configUrl": "https://raw.githubusercontent.com/willibill/bus/master/arret/config.json"
   }
 ]
