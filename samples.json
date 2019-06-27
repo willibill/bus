@@ -9,5 +9,16 @@
     "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/willibill/bus/master/data/data.csv",
     "configUrl": "https://raw.githubusercontent.com/willibill/bus/master/data/config.json"
+  },
+  {
+    "id": "arret",
+    "label": "Arret de bus RATP",
+    "queryType": "sample",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/RATP.svg/1200px-RATP.svg.png",
+    "description": "A small sample of yellow and green taxi trip records in New York City.",
+    "size": 97986,
+    "visible": true,
+    "dataUrl": "https://raw.githubusercontent.com/willibill/bus/master/arret/data.csv",
+    "configUrl": "https://raw.githubusercontent.com/willibill/bus/master/arret/config.json"
   }
 ]
