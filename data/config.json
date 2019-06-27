@@ -173,8 +173,7 @@
                      "bus_id",
                      "code_iti",
                      "Arret precedent",
-                     "Arret suivant",
-                     "Prédiction IA"
+                     "Arret suivant"
                   ]
                },
                "enabled":true
