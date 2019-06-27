@@ -173,8 +173,7 @@
                      "bus_id",
                      "code_iti",
                      "Délai réel",
-                     "Prédiction RATP",
-                     "Prédiction IA"
+                     "Prédiction RATP"
                   ]
                },
                "enabled":true
