@@ -43,9 +43,10 @@
                "type":"timeRange",
                "value":[
                    1493597438,
-                   1493597462
+                   1493597675
                ],
-               "yAxis":null
+               "yAxis":null,
+               "enlarged": false
             },
          {
                "dataId": "bus",
