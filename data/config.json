@@ -46,19 +46,6 @@
                   1421352890000
                ],
                "yAxis":null
-            },
-         {
-               "dataId": "bus",
-               "id": "xagpk5xes",
-               "name": "bus_id",
-               "type": "range",
-               "value": [
-                 3000,
-                 3113
-               ],
-               "enlarged": false,
-               "plotType": "histogram",
-               "yAxis": null
             }
          ],
          "layerBlending":"additive",
