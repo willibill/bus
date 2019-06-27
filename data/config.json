@@ -46,6 +46,14 @@
                   1421352890000
                ],
                "yAxis":null
+            },
+         {
+               "dataId":"bus",
+               "enlarged":true,
+               "name":"bus_id",
+               "value":[
+                  "B30001"
+               ],
             }
          ],
          "layerBlending":"additive",
