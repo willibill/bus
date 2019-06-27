@@ -155,7 +155,7 @@
                      "thickness":2
                   },
                   "textLabel": {
-                     "field": null,
+                     "field": "prochain_arret",
                      "color": [255,255,255],
                      "size" : 18,
                      "xOffset": 0,
