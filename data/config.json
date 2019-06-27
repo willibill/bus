@@ -48,7 +48,7 @@
                "yAxis":null
             },
          {
-               "name": "id",
+               "name": "bus_id",
                "type": "select",
                "fieldIdx": "bus_id",
                "value": ["B3001"]
