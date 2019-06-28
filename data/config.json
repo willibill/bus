@@ -81,7 +81,7 @@
                      "isVisible": true,
                      "visConfig": {
                        "opacity": 0.3,
-                       "thickness": 6.3,
+                       "thickness": 1.2,
                        "colorRange": {
                          "name": "Global Warming",
                          "type": "sequential",
