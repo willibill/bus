@@ -52,14 +52,14 @@
                "id":"09vn5a0of",
                "name": "bus_id",
                "type": "select",
-               "value": ['B3001', 'B3100', 'B3102', 'B3108', 'B3111', 'B3112', 'B3113', 'B3028', 'B3050', 'B3051', 'B3099', 'B3103', 'B3105', 'B3107', 'B3114', 'B3101', 'B8780', 'B8787', 'B8804', 'B3104', 'B3106', 'B3109']
+               "value": ["B3001", "B3100", "B3102", "B3108", "B3111", "B3112", "B3113"]
             },
          {
                "dataId":"bus",
                "id":"09vn5a0of",
                "name": "code_iti",
                "type": "select",
-               "value": ['ITI:55', 'ITI:54', 'ITI:56', 'ITI:57', 'ITI:8', 'ITI:7', 'ITI:52', 'ITI:17', 'ITI:50']
+               "value": ["ITI:54", "ITI:55", "ITI:56", "ITI:57"]
             }
          ],
          "layerBlending":"additive",
