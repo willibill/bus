@@ -59,7 +59,7 @@
                "id":"09vn5a0of",
                "name": "code_iti",
                "type": "select",
-               "value": ["ITI:55", "ITI:54", "ITI:56", "ITI:57", "ITI:8", "ITI:7", "ITI:52", "ITI:17", "ITI:50"]
+               "value": ["ITI:7", "ITI:8", "ITI:17", "ITI:50", "ITI:52", "ITI:54", "ITI:55", "ITI:56", "ITI:57"]
             }
          ],
          "layerBlending":"additive",
