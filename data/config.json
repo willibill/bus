@@ -42,8 +42,8 @@
                "plotType":"histogram",
                "type":"timeRange",
                "value":[
-                  "00:02:43",
-                  "00:10:42"
+                  1000,
+                  5000
                ],
                "yAxis":null
             },
