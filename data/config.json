@@ -59,7 +59,7 @@
                "id":"09vn5a0of",
                "name": "bus_id",
                "type": "select",
-               "value": []
+               "value": ["ITI:7", "ITI:8", "ITI:17", "ITI:50", "ITI:54", "ITI:55"]
             },
          {
                "dataId":"bus",
