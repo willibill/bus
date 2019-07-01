@@ -41,7 +41,7 @@
                "name":"hour",
                "plotType":"histogram",
                "type":"select",
-               "value":[893000,1073000],
+               "value":["00:10:47", "00:11:40"],
                "yAxis":null
             },
          {
