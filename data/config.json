@@ -40,11 +40,8 @@
                "id":"09vn5a0of",
                "name":"hour",
                "plotType":"histogram",
-               "type":"timeRange",
-               "value":[
-                  893000,
-                  1073000
-               ],
+               "type":"select",
+               "value":[893000,1073000],
                "yAxis":null
             },
          {
