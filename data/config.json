@@ -59,14 +59,14 @@
                "id":"09vn5a0of",
                "name": "bus_id",
                "type": "select",
-               "value": ["B3001", "B3100", "B3108", "B3112", "B3028", "B3051", "B3099", "B3105", "B3107", "B3114", "B3101", "B3104", "B3106", "B3109"]
+               "value": []
             },
          {
                "dataId":"bus",
                "id":"09vn5a0of",
                "name": "code_iti",
                "type": "select",
-               "value": ["ITI:7", "ITI:8", "ITI:17", "ITI:50", "ITI:54", "ITI:55"]
+               "value": []
             }
          ],
          "layerBlending":"additive",
