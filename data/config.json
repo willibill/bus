@@ -41,7 +41,7 @@
                "name":"hour",
                "plotType":"histogram",
                "type":"select",
-               "value":["00:10:47", "00:11:40"],
+               "value":[1562198563000, 1562199404000],
                "yAxis":null
             },
          {
@@ -128,6 +128,16 @@
                   "dataId":"bus",
                   "isVisible":true,
                   "label":"points",
+                  'textLabel': [
+                     {
+                        'alignment': 'center',
+                        'anchor': 'start',
+                        'color': [255, 255, 255],
+                        'field': {'name': 'Arret', 'type': 'string'},
+                        'offset': [0, 0],
+                        'size': 11
+                    }
+                  ],
                   "visConfig":{
                      "colorRange":{
                         "colors":[
