@@ -1,6 +1,6 @@
 [
   {
-    "id": "bus",
+    "id": "data",
     "label": "Bus Trips RATP",
     "queryType": "sample",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/RATP.svg/1200px-RATP.svg.png",
