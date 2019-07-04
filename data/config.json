@@ -43,7 +43,7 @@
                "plotType":"histogram",
                "type":"timeRange",
                "value":[
-                  ,
+                  4000,
                   5000
                ],
                "yAxis":null
