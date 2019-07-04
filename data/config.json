@@ -12,7 +12,9 @@
              "offset": [0, 0], 
              "anchor": "start", 
              "alignment": "center", 
-             "size": 18}], 
+             "size": 18
+            }
+          ], 
           "label": "deplacement", 
           "isVisible": true, 
           "visConfig": {
@@ -119,7 +121,7 @@
         }, 
         "tooltip": {
           "fieldsToShow": {
-            "data": ["timestamp", "hour", "Arret suivant", "Arret precedent", "Delai reel", "Prediction RATP", "bus_id", "code_iti", "Prediction IA"]
+            "data": ["timestamp", "hour", "bus_id", "code_iti", "Arret precedent", "Arret suivant", "Delai reel", "Prediction RATP", "Prediction IA"]
           }, 
           "enabled": true
         }
