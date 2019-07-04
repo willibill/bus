@@ -1,1 +1,198 @@
-{"version": "v1", "config": {"visState": {"layers": [{"config": {"dataId": "data", "color": [255, 153, 31], "textLabel": [{"color": [255, 255, 255], "field": null, "offset": [0, 0], "anchor": "start", "alignment": "center", "size": 18}], "label": "deplacement", "isVisible": true, "visConfig": {"opacity": 0.8, "sizeRange": [0, 10], "strokeColorRange": {"category": "Uber", "colors": ["#5A1846", "#900C3F", "#C70039", "#E3611C", "#F1920E", "#FFC300"], "type": "sequential", "name": "Global Warming"}, "wireframe": false, "thickness": 0.5, "elevationScale": 5, "radius": 10, "filled": false, "enable3d": false, "strokeColor": null, "heightRange": [0, 500], "radiusRange": [0, 50], "colorRange": {"category": "Uber", "colors": ["#5A1846", "#900C3F", "#C70039", "#E3611C", "#F1920E", "#FFC300"], "type": "sequential", "name": "Global Warming"}, "stroked": true}, "columns": {"geojson": "geometry"}}, "visualChannels": {"sizeField": null, "colorScale": "quantile", "strokeColorScale": "quantile", "radiusScale": "linear", "colorField": null, "heightScale": "linear", "heightField": null, "radiusField": null, "sizeScale": "linear", "strokeColorField": null}, "type": "geojson", "id": "9bx0fs9"}, {"config": {"dataId": "data", "color": [23, 184, 190], "textLabel": [{"color": [255, 255, 255], "field": {"type": "string", "name": "Arret"}, "offset": [0, 0], "anchor": "start", "alignment": "center", "size": 11}], "label": "points", "isVisible": true, "visConfig": {"opacity": 0.8, "outline": false, "strokeColorRange": {"category": "Uber", "colors": ["#5A1846", "#900C3F", "#C70039", "#E3611C", "#F1920E", "#FFC300"], "type": "sequential", "name": "Global Warming"}, "thickness": 2, "fixedRadius": false, "radius": 10, "filled": true, "strokeColor": null, "radiusRange": [0, 50], "colorRange": {"category": "Uber", "colors": ["#5A1846", "#900C3F", "#C70039", "#E3611C", "#F1920E", "#FFC300"], "type": "sequential", "name": "Global Warming"}}, "columns": {"lat": "y", "lng": "x", "altitude": null}}, "visualChannels": {"sizeField": null, "colorScale": "quantile", "strokeColorScale": "quantile", "colorField": null, "sizeScale": "linear", "strokeColorField": null}, "type": "point", "id": "cyvk4ya"}], "interactionConfig": {"brush": {"enabled": false, "size": 0.5}, "tooltip": {"fieldsToShow": {"data": ["timestamp", "hour", "Arret suivant", "Arret precedent", "Delai reel", "Prediction RATP", "bus_id", "code_iti", "Prediction IA"]}, "enabled": true}}, "splitMaps": [], "layerBlending": "normal", "filters": [{"dataId": "data", "name": "hour", "yAxis": null, "value": [1562198563000, 1562198696000.0002], "enlarged": true, "plotType": "histogram", "type": "timeRange", "id": "i3qz80ufc"}, {"dataId": "data", "name": "timestamp", "yAxis": null, "value": ["2017-05-06"], "enlarged": false, "plotType": "histogram", "type": "multiSelect", "id": "v2cp4sxx"}, {"dataId": "data", "name": "bus_id", "yAxis": null, "value": ["B3001", "B3028", "B3051", "B3099", "B3100", "B3101", "B3104", "B3105", "B3106", "B3107", "B3108", "B3109", "B3114"], "enlarged": false, "plotType": "histogram", "type": "multiSelect", "id": "jplnul45"}, {"dataId": "data", "name": "code_iti", "yAxis": null, "value": ["ITI:17", "ITI:7", "ITI:8", "ITI:55", "ITI:54", "ITI:50"], "enlarged": false, "plotType": "histogram", "type": "multiSelect", "id": "x9q0fi21g"}]}, "mapStyle": {"mapStyles": {}, "topLayerGroups": {}, "styleType": "dark", "visibleLayerGroups": {"building": true, "land": true, "3d building": false, "label": true, "water": true, "border": false, "road": true}}, "mapState": {"bearing": 24, "dragRotate": true, "zoom": 12.200022259163925, "longitude": 2.319548460626989, "isSplit": false, "pitch": 50, "latitude": 48.848170073411275}}}
+{
+  "version": "v1", 
+  "config": {
+    "visState": {
+      "layers": [
+        {"config": {
+          "dataId": 
+          "data", 
+          "color": [255, 153, 31], 
+          "textLabel": [
+            {"color": [255, 255, 255], 
+             "field": null, 
+             "offset": [0, 0], 
+             "anchor": "start", 
+             "alignment": "center", 
+             "size": 18}], 
+          "label": "deplacement", 
+          "isVisible": true, 
+          "visConfig": {
+            "opacity": 0.8, 
+            "sizeRange": [0, 10], 
+            "strokeColorRange": {
+              "category": "Uber", 
+              "colors": ["#5A1846", "#900C3F", "#C70039", "#E3611C", "#F1920E", "#FFC300"], 
+              "type": "sequential", 
+              "name": "Global Warming"
+            }, 
+            "wireframe": false, 
+            "thickness": 0.5, 
+            "elevationScale": 5, 
+            "radius": 10, 
+            "filled": false, 
+            "enable3d": false, 
+            "strokeColor": null, 
+            "heightRange": [0, 500], 
+            "radiusRange": [0, 50], 
+            "colorRange": {
+              "category": "Uber", 
+              "colors": ["#5A1846", "#900C3F", "#C70039", "#E3611C", "#F1920E", "#FFC300"], 
+              "type": "sequential", 
+              "name": "Global Warming"
+            }, 
+            "stroked": true
+          }, 
+          "columns": {"geojson": "geometry"}
+        }, 
+         "visualChannels": {
+           "sizeField": null, 
+           "colorScale": 
+           "quantile", 
+           "strokeColorScale": "quantile", 
+           "radiusScale": "linear", 
+           "colorField": null, 
+           "heightScale": "linear", 
+           "heightField": null, 
+           "radiusField": null, 
+           "sizeScale": "linear", 
+           "strokeColorField": null
+         }, 
+         "type": "geojson", 
+         "id": "9bx0fs9"
+        }, 
+        {"config": 
+         {"dataId": 
+          "data", 
+          "color": [23, 184, 190], 
+          "textLabel": [
+            {
+              "color": [255, 255, 255], 
+              "field": {"type": "string", "name": "Arret"}, 
+              "offset": [0, 0], 
+              "anchor": "start", 
+              "alignment": "center", 
+              "size": 11
+            }
+          ], 
+          "label": "points", 
+          "isVisible": true, 
+          "visConfig": {
+            "opacity": 0.8, 
+            "outline": false, 
+            "strokeColorRange": {
+              "category": "Uber", 
+              "colors": ["#5A1846", "#900C3F", "#C70039", "#E3611C", "#F1920E", "#FFC300"], 
+              "type": "sequential", 
+              "name": "Global Warming"
+            }, 
+            "thickness": 2, 
+            "fixedRadius": false, 
+            "radius": 10, 
+            "filled": true, 
+            "strokeColor": null, 
+            "radiusRange": [0, 50], 
+            "colorRange": {
+              "category": "Uber", 
+              "colors": ["#5A1846", "#900C3F", "#C70039", "#E3611C", "#F1920E", "#FFC300"], 
+              "type": "sequential", 
+              "name": "Global Warming"}
+          }, 
+          "columns": {
+            "lat": "y", 
+            "lng": "x", 
+            "altitude": null}
+         }, 
+         "visualChannels": {
+           "sizeField": null, 
+           "colorScale": "quantile", 
+           "strokeColorScale": "quantile", 
+           "colorField": null, 
+           "sizeScale": "linear", 
+           "strokeColorField": null
+         }, 
+         "type": "point", 
+         "id": "cyvk4ya"
+        }
+      ], 
+      "interactionConfig": {
+        "brush": {
+          "enabled": false, 
+          "size": 0.5
+        }, 
+        "tooltip": {
+          "fieldsToShow": {
+            "data": ["timestamp", "hour", "Arret suivant", "Arret precedent", "Delai reel", "Prediction RATP", "bus_id", "code_iti", "Prediction IA"]
+          }, 
+          "enabled": true
+        }
+      }, 
+      "splitMaps": [], 
+      "layerBlending": "normal", 
+      "filters": [
+        {
+          "dataId": "data", 
+          "name": "hour", 
+          "yAxis": null, 
+          "value": [1562198563000, 1562198696000.0002], 
+          "enlarged": true, 
+          "plotType": "histogram", 
+          "type": "timeRange", 
+          "id": "i3qz80ufc"
+        }, 
+        {
+          "dataId": "data", 
+          "name": "timestamp", 
+          "yAxis": null, 
+          "value": ["2017-05-06"], 
+          "enlarged": false, 
+          "plotType": "histogram", 
+          "type": "multiSelect", 
+          "id": "v2cp4sxx"
+        }, 
+        {
+          "dataId": "data", 
+          "name": "bus_id", 
+          "yAxis": null, 
+          "value": ["B3001", "B3028", "B3051", "B3099", "B3100", "B3101", "B3104", "B3105", "B3106", "B3107", "B3108", "B3109", "B3114"], 
+          "enlarged": false, 
+          "plotType": "histogram", 
+          "type": "multiSelect", 
+          "id": "jplnul45"
+        }, 
+        {
+          "dataId": "data", 
+          "name": "code_iti", 
+          "yAxis": null, 
+          "value": ["ITI:17", "ITI:7", "ITI:8", "ITI:55", "ITI:54", "ITI:50"], 
+          "enlarged": false, 
+          "plotType": "histogram", 
+          "type": "multiSelect", 
+          "id": "x9q0fi21g"
+        }
+      ]
+    }, 
+    "mapStyle": {
+      "mapStyles": {}, 
+      "topLayerGroups": {}, 
+      "styleType": "dark", 
+      "visibleLayerGroups": {
+        "building": true, 
+        "land": true, 
+        "3d building": false, 
+        "label": true, 
+        "water": true, 
+        "border": false, 
+        "road": true
+      }
+    }, 
+    "mapState": {
+      "bearing": 24, 
+      "dragRotate": true, 
+      "zoom": 12.200022259163925, 
+      "longitude": 2.319548460626989, 
+      "isSplit": false, 
+      "pitch": 50, 
+      "latitude": 48.848170073411275
+    }
+  }
+}
