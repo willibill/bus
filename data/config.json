@@ -1,3 +1,4 @@
+    
 {
    "config":{
       "mapState":{
@@ -40,8 +41,11 @@
                "id":"09vn5a0of",
                "name":"hour",
                "plotType":"histogram",
-               "type":"select",
-               "value":["00:10:47", "00:11:40"],
+               "type":"timeRange",
+               "value":[
+                  ,
+                  5000
+               ],
                "yAxis":null
             },
          {
@@ -190,4 +194,3 @@
       }
    },
    "version":"v1"
-}
