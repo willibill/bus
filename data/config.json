@@ -40,7 +40,7 @@
                "id":"09vn5a0of",
                "name":"hour",
                "plotType":"histogram",
-               "type":"select",
+               "type":"timeRange",
                "value":[1562198563000, 1562199404000],
                "yAxis":null
             },
@@ -128,16 +128,6 @@
                   "dataId":"bus",
                   "isVisible":true,
                   "label":"points",
-                  'textLabel': [
-                     {
-                        'alignment': 'center',
-                        'anchor': 'start',
-                        'color': [255, 255, 255],
-                        'field': {'name': 'Arret', 'type': 'string'},
-                        'offset': [0, 0],
-                        'size': 11
-                    }
-                  ],
                   "visConfig":{
                      "colorRange":{
                         "colors":[
