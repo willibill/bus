@@ -133,7 +133,7 @@
           "dataId": "data", 
           "name": "hour", 
           "yAxis": null, 
-          "value": [1562199135166.667, 1562199268166.6672], 
+          "value": [1562630563000, 1562630777000], 
           "enlarged": true, 
           "plotType": "histogram", 
           "type": "timeRange", 
