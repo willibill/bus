@@ -121,7 +121,7 @@
         }, 
         "tooltip": {
           "fieldsToShow": {
-            "data": ["timestamp", "hour", "bus_id", "code_iti", "Arret precedent", "Arret suivant", "Delai reel", "Prediction RATP", "Prediction IA"]
+            "data": ["timestamp", "hour", "ligne", "bus_id", "code_iti", "Arret precedent", "Arret suivant", "Delai reel", "Prediction RATP", "Prediction IA"]
           }, 
           "enabled": true
         }
@@ -148,26 +148,6 @@
           "plotType": "histogram", 
           "type": "multiSelect", 
           "id": "v2cp4sxx"
-        }, 
-        {
-          "dataId": "data", 
-          "name": "bus_id", 
-          "yAxis": null, 
-          "value": ["B3001", "B3028", "B3051", "B3099", "B3100", "B3101", "B3104", "B3105", "B3106", "B3107", "B3108", "B3109", "B3114"], 
-          "enlarged": false, 
-          "plotType": "histogram", 
-          "type": "multiSelect", 
-          "id": "jplnul45"
-        }, 
-        {
-          "dataId": "data", 
-          "name": "code_iti", 
-          "yAxis": null, 
-          "value": ["ITI:17", "ITI:7", "ITI:8", "ITI:55", "ITI:54", "ITI:50"], 
-          "enlarged": false, 
-          "plotType": "histogram", 
-          "type": "multiSelect", 
-          "id": "x9q0fi21g"
         }
       ]
     }, 
