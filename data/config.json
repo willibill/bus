@@ -71,7 +71,7 @@
               "offset": [0, 0], 
               "anchor": "start", 
               "alignment": "center", 
-              "size": 11
+              "size": 18
             }
           ], 
           "label": "points", 
